@@ -1,0 +1,10 @@
+[
+  {
+    "404": "index.html",
+    "host": "http://localhost:9090",
+    "path": "build",
+    "cors": "*",
+    "ttl": "",
+    "entryPoint": "index.html"
+  }
+]

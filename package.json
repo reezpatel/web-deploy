@@ -1,0 +1,17 @@
+{
+  "name": "deploy-page",
+  "version": "0.0.1",
+  "description": "Self Hosted Fast Static Website Deployment Toolkit",
+  "main": "index.js",
+  "repository": "https://github.com/reezpatel/deploy-page.git",
+  "author": "Reez Patel <reezpatel@gmail.com>",
+  "license": "GNU",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "formidable": "^1.2.2",
+    "getdomain": "^1.3.1",
+    "node-fetch": "^2.6.0",
+    "tar-fs": "^2.1.0",
+    "yargs": "^15.4.0"
+  }
+}
